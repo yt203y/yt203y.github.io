@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Chemistry, Mahidol University, 1995
+* Ph.D in Theoretical Chemistry, Cambridge University, 1999
 
 Work experience
 ======
@@ -29,7 +28,9 @@ Work experience
   
 Skills
 ======
-* Skill 1
+* Computational Chemistry
+  * Quantum Chemistry
+  * Molecular Dynamics 
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
