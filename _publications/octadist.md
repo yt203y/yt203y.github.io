@@ -1,7 +1,7 @@
 ---
 title: "Octadist"
 collection: publications
-permalink: /publication/octadist.md
+permalink: /publication/octadist
 excerpt: 'This paper is about Octadist. The number 4 is left for future work.'
 date: 2015-10-01
 venue: 'Journal 4'
