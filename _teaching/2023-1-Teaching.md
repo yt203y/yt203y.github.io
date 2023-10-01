@@ -10,12 +10,14 @@ location: "Pathumthani, Thailand"
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
-======
-*CM251
-*CM351
-Heading 2
+CM251
 ======
 
-Heading 3
+CM351
+======
+
+CM730
+======
+
+CM174
 ======
