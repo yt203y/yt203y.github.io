@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuthana Tantirungrotechai homepage"
+title                    : "Yuthana Tantirungrotechai's homepage"
 title_separator          : "-"
 name                     : &name "Yuthana Tantirungrotechai"
 description              : &description "Lecturer at Thammasat University"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               : yuthana.tantirungrotechai
   app_id                 :
@@ -83,8 +83,8 @@ author:
   name             : "Yuthana Tantirungrotechai"
   avatar           : "profile.png"
   bio              : "Computational Chemist&Lecturer"
-  location         : "Thailand"
-  employer         : "Thammasat University"
+  location         : "Thammasat University"
+  employer         : 
   pubmed           :  
   googlescholar    : "https://scholar.google.com/citations?user=X0M8wdoAAAAJ&hl=en"
   email            : "yt203y@gmail.com"
