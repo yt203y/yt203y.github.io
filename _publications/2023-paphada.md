@@ -6,10 +6,10 @@ excerpt: 'AS1411 aptamer is able to recognise the nucleolin overexpressed on can
 date: 2023-05-15
 venue: 'Molecular Simulation'
 paperurl: 'http://yt203y.github.io/files/2023-paphada.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: 'Watcharapo, P. et al. (2023). &quot;Interaction study of Dox-incorporated AS1411 aptamer and nucleolin by molecular dynamics simulation&quot; <i>Molecular Simulation</i>. 2023(49),1051-1060.'
 ---
-Aptamaer simulation 
+Aptamer simulation 
 
 [Download paper here](http://yt203y.github.io/files/2023-paphada.pdf)
 
-Recommended citation: https://doi.org/10.1080/08927022.2023.2211173 Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: (https://doi.org/10.1080/08927022.2023.2211173) Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
