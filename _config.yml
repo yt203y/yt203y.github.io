@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yuthana Tantirungrotechai"
   avatar           : "profile.png"
-  bio              : "Computational Chemistt&Lecturer"
-  location         : "Thammasat University, Thailand"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  bio              : "Computational Chemist&Lecturer"
+  location         : "Thailand"
+  employer         : "Thammasat University"
+  pubmed           :  
   googlescholar    : "https://scholar.google.com/citations?user=X0M8wdoAAAAJ&hl=en"
-  email            :
+  email            : "yt203y@gmail.com"
   researchgate     :  "https://www.researchgate.net/profile/Yuthana-Tantirungrotechai"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "yt203y"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-7162-3374"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
