@@ -16,15 +16,13 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* 20xx-present: Associate Professor
+  * Thammasat University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 20yy-20xx: [TUCSEAR]("www.sat.tu.ac.th") Director 
+  * Thammasat University
+  * 
   
 Skills
 ======
