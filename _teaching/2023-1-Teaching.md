@@ -10,14 +10,23 @@ location: "Pathumthani, Thailand"
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-CM251
+CM251: Mathematics for Chemists
 ======
 
-CM351
+CM257: Scientific Communication
 ======
 
-CM730
+CM351: Spectroscopy for Chemists
 ======
 
-CM174
+CM446: Introduction to Computational Quantum Chemistry
+======
+
+CM645: Computational Quantum Chemistry
+======
+
+CM730: Quantum Mechanics and Statistical Thermodynamics
+======
+
+SC174: General Organic Chemistry Laboratory 
 ======
