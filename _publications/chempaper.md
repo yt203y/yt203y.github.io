@@ -1,15 +1,15 @@
 ---
-title: "Octadist"
+title: "Chalcogenide adsorption"
 collection: publications
-permalink: /publication/octadist
-excerpt: 'This paper is about Octadist. software is available (https://github.com/OctaDist/OctaDist)'
-date: 2015-10-01
-venue: 'Dalton Transactions'
-paperurl: 'https://yt203y.github.io/files/Ketkaew et al_2021_OctaDist.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/chempaper
+excerpt: 'This work is about chalcogenide adsorption on pristine/modified graphene published in Chemical Papers.'
+date: 2024-12-31
+venue: 'Chemical Papers'
+paperurl: 'https://doi.org/10.1007/s11696-024-03875-8'
+citation: 'Ruamdee, K., Singhanatkaisi, N. & Tantirungrotechai, Y. Theoretical study of hydrogen/methyl chalcogenides (H2X and CH3XH, X = S, Se) adsorption on pristine/doped graphene quantum dots. <i>Chem. Pap. </i>(2024). https://doi.org/10.1007/s11696-024-03875-8'  
 ---
-This paper is about the number 3. The number 4 is left for future work.
+This work is about chalcogenide adsorption on pristine/modified graphene published in Chemical Papers.
 
-[Download paper here](https://yt203y.github.io/files/Ketkaew et al_2021_OctaDist.pdf)
+[Download paper here](https://doi.org/10.1007/s11696-024-03875-8)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Ruamdee, K., Singhanatkaisi, N. & Tantirungrotechai, Y. Theoretical study of hydrogen/methyl chalcogenides (H2X and CH3XH, X = S, Se) adsorption on pristine/doped graphene quantum dots. <i>Chem. Pap. </i>(2024). https://doi.org/10.1007/s11696-024-03875-8.
