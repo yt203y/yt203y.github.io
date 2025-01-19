@@ -17,12 +17,12 @@ Education
 Work experience
 ======
 * 20xx-present: Associate Professor
-  * Thammasat University
-  * Duties included: Tagging issues
+  * Division of Chemistry, Faculty of Science and Technology, Thammasat University
+    
 
-* 20yy-20xx: [TUCSEAR]("www.sat.tu.ac.th") Director 
+* 2021-2024: Thammasat University Center of Scientific Equipment for Advanced Research Director 
   * Thammasat University
-  * 
+    
   
 Skills
 ======
