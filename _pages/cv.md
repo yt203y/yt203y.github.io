@@ -29,7 +29,7 @@ Skills
 * Computational Chemistry
   * Quantum Chemistry
   * Molecular Dynamics 
-* Skill 2
+* Python
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
