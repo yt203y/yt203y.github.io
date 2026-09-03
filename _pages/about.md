@@ -12,9 +12,11 @@ redirect_from:
 ---
 
 
-Hello World! I'm a computational chemist at Thammasat University. I have applied my computational chemistry skills to help my experimental chemist friend to understand their chemistry. By training I did use quantum mechanical techniques (pre-DFT) to predict molecular properties. However, I've been using more and more molecular dynamics simulation and molecular docking techniques. Hopefully I'll be using AI and machine learning for the later part of my career.
+Hello World!
 
-I lead an always small group of students to some interesting research. By carrot and stick, I train them to be (with finger cross!) a good researcher and a not so-crazy person. 
+I'm a computational chemist at Thammasat University. I apply my computational skills to help my experimental chemist friends understand their chemistry. By training, I used quantum mechanical techniques to predict molecular properties. However, I've been using molecular dynamics simulations and molecular docking techniques more and more. Hopefully, I'll be incorporating AI and machine learning in the later part of my career.
+
+I lead a small group of students through some interesting research. Through a bit of carrot and stick, I train them to be (fingers crossed!) good researchers and not-so-crazy people.
 
 Apart from doing science, I enjoy reading, listening to music, and cooking.
 
