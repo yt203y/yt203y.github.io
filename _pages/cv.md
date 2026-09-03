@@ -17,9 +17,17 @@ Education
 
 Work experience
 ======
-* 20xx-present: Associate Professor
+* 1995-2008: Lecturer, Assistant Professor
+  * Department of Chemistry, Faculty of Science and Technology, Thammasat University
+
+* 2009-2011: Researcher
+  * National Nanotechnology Center, NSTDA
+
+* 2011-present: Assistant Professor, Associate Professor
   * Division of Chemistry, Faculty of Science and Technology, Thammasat University
-    
+
+* 2017-2019: Director, SCIUS Suankularb Rangsit School-Thammasat Rangsit Program
+  * Faculty of Science and Technology, Thammasat University
 
 * 2021-2024: Thammasat University Center of Scientific Equipment for Advanced Research Director 
   * Thammasat University
