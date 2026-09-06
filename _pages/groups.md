@@ -8,7 +8,9 @@ modified: 2016-06-06
 {% include toc %}
 
 ## Group Members
-1.Mr. Tri Cao Vu
-2.Ms. Wandee Inwong
-3.Ms. Thitipatra Buabanprom
-4.Ms. Chinnipha Wanaphun
+1. Mr. Tri Cao Vu
+1. Ms. Wandee Inwong
+1. Ms. Thitipatra Buabanprom
+1. Ms. Chinnipha Wannaphun
+
+
