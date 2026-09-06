@@ -1,6 +1,6 @@
 ---
-permalink: /Group/
-title: "Group Members2"
+permalink: /group/
+title: "Group Members"
 modified: 2016-06-06
 ---
 
