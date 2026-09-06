@@ -14,3 +14,9 @@ modified: 2016-06-06
 1. Ms. Chinnipha Wannaphun
 
 
+## Alumni
+1. Mr. Natthakit Singhanatkaisi
+1. Mr. Rangsiman Ketkaew
+1. Ms. Kerida Ruamdee
+1. Ms. Chakhon Salee
+
