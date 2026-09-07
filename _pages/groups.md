@@ -19,6 +19,9 @@ modified: 2026-09-06
 1. Mr. Rangsiman Ketkaew (MSc)
 1. Ms. Kerida Ruamdee (MSc)
 1. Ms. Chakhon Salee 
+1. Ms. Wimonsiri Tanomsridachchai (MSc)
+1. Mr. Phoom Chumponanomakhun (MSc)
+1. Ms.Aphiradee Syananondh (MSc)
 1. Ms.Pornthip Tongying (MSc, now at Silpakorn U.)
 1. Mr.Wikorn Panyain (MSc, now at Naresuan U.)
 1. Ms.Supacharee Roddecha (MSc, now at Kasetsart U.)
