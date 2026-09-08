@@ -47,7 +47,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-English to Thai Translation 
+English to Thai Translation (หนังสือแปล)
 ======
 1. Disappearing Spoon by Sam Kean
 1. In Persuit of Unknown: 17 equations that changed the world by Ian Stewart
