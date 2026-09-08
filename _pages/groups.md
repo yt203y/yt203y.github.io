@@ -14,7 +14,7 @@ modified: 2026-09-06
 1. Ms. Chinnipha Wannaphun (BSc student)
 
 
-## Alumni
+## Alumni (Thammasat) 
 1. Mr. Natthakit Singhanatkaisi (MSc)
 1. Mr. Rangsiman Ketkaew (MSc)
 1. Ms. Kerida Ruamdee (MSc)
@@ -22,9 +22,16 @@ modified: 2026-09-06
 1. Ms. Wimonsiri Tanomsridachchai (MSc)
 1. Mr. Phoom Chumponanomakhun (MSc)
 1. Ms.Aphiradee Syananondh (MSc)
-1. Ms.Pornthip Tongying (MSc, now at Silpakorn U.)
-1. Mr.Wikorn Panyain (MSc, now at Naresuan U.)
-1. Ms.Supacharee Roddecha (MSc, now at Kasetsart U.)
-1. Ms.Ketthip Phanasant Supavanich (PhD, now at Ministry of education)
+
+## Alumni (Mahidol) 
+1. Ms. Tosaporn Sattasathuchana (Bsc, now at Hawaii U.) 
+1. Ms. Pornthip Tongying (MSc, now at Silpakorn U.)
+1. Mr. Wikorn Panyain (MSc, now at Naresuan U.)
+1. Mr. Tawinan Chiewchanchamnankij (Bsc, now at Mahidol U.)
+1. Mr. Taweetham Limpanuparb (Bsc, now in Australia) 
+1. Ms. Supacharee Roddecha (MSc, now at Kasetsart U.)
+1. Ms. Ketthip Phanasant Supavanich (PhD, now at Ministry of education)
+1. Ms. Panida Surawattanawong (Bsc, now at Mahidol U.)
+1. Ms. Duangporn Wanapun (Bsc, now in US) 
 
 

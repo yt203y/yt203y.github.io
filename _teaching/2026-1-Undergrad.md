@@ -18,10 +18,14 @@ CM256: Chemical Informatics
 ======
 This course is an introduction to Python for chemistry students.
 
-
 CM257: Scientific Communication
 ======
 This course introduces communication techniques in scientific and non-scientific audiences.
+
+CM236: Physical Chemistry (for food science, no longer taught)
+======
+This course introduces Physical chemistry for undergraduate student in food science. I no longer taught this course.
+
 
 CM351: Spectroscopy for Chemists (no longer taught)
 ======
@@ -35,6 +39,11 @@ This is the hands-on introduction to computer applications in chemistry. We intr
 CM446: Introduction to Computational Quantum Chemistry
 ======
 This is the practical quantum chemistry course involving in-depth discussion of each methods (DFT, HF, coorrelation etc.)
+
+SC123: General Chemistry  (no longer taught)
+======
+One-semester general chemistry course for first year undergraduate students.  I covered mostly atomic structure,molecular structure, periodic relationship of the elements.
+
 
 SC171, SC172, SC173, SC176: General Chemistry Laboratory 
 ======
