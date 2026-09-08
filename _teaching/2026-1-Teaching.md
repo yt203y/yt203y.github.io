@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience "
+title: "Undergraduate Teaching"
 collection: teaching
 type: "Graduate & Undergraduate courses"
 permalink: /teaching/2026-1-Teaching
