@@ -31,10 +31,14 @@ Skills
 * Computational Chemistry
   * Quantum Chemistry
   * Molecular Dynamics 
+  * Molecular Docking
 * Programming
   * Python
   * Fortran 77
-
+* Language
+  * Thai: Native
+  * English: Good
+  * German:  Basic
 
 
 Publications
@@ -43,16 +47,26 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+English to Thai Translation 
+======
+1. Disappearing Spoon by Sam Kean
+1. In Persuit of Unknown: 17 equations that changed the world by Ian Stewart
+1. Discoveries by Alan Lightman  
+1. Prodigal Genius: The life of Nikolas Tesla by  J. J. O'Neill 
+1. Napoleon's Buttons: How 17 molecules changed History by  P. Le Coutour and J. Burreson
+1. Molecules at an Exhibition by John Emsley
+1. The Rise of Nanotech: Scientific American's special issue by Scientific American
+1. Chemistry (9-12th editions) by Raymond Chang 
 
-  
-##Teaching
+Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
   
-##Administrative Service and leadership
+
+Administrative Service and leadership
 ======
 * 2021-2024: Thammasat University Center of Scientific Equipment for Advanced Research Director 
   * Thammasat University
@@ -60,7 +74,8 @@ Publications
   * Thammasat University
 * 2017-2019: Director, SCIUS Suankularb Rangsit School-Thammasat Rangsit Program
   * Faculty of Science and Technology, Thammasat University
+* 2014-2019: Chairperson, PhD in Chemistry (International Program)
+  * Faculty of Science and Technology, Thammasat University
 * 2012-2014: Head of Chemistry Department
   * Faculty of Science and Technology, Thammasat University
  
-
