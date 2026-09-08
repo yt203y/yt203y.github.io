@@ -53,9 +53,9 @@ Publications
   {% endfor %}</ul>
   
 #Talks
-#======
-#  <ul>{% for post in #site.talks reversed %}
- #   {% include #archive-single-talk-cv.html  %}
+# ======
+#  <ul>#{% for post in #site.talks reversed %}
+#   {% include #archive-single-talk-cv.html  %}
 #  {% endfor %}</ul>
   
 Teaching
