@@ -41,11 +41,10 @@ Skills
 * Computational Chemistry
   * Quantum Chemistry
   * Molecular Dynamics 
-* Python
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Python
+  * Fortran 77
+
 
 Publications
 ======
@@ -53,11 +52,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+#Talks
+#======
+#  <ul>{% for post in #site.talks reversed %}
+ #   {% include #archive-single-talk-cv.html  %}
+#  {% endfor %}</ul>
   
 Teaching
 ======
