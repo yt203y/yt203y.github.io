@@ -2,7 +2,7 @@
 title: "Undergraduate Teaching"
 collection: teaching
 type: "Graduate & Undergraduate courses"
-permalink: /teaching/2026-1-Teaching
+permalink: /teaching/2026-1-Undergrad
 venue: "Thammasat University, Chemistry"
 date: 2026-September
 location: "Pathumthani, Thailand"
@@ -28,20 +28,21 @@ CM351: Spectroscopy for Chemists (no longer taught)
 This course is no longer taught by me. One part is the physical chemistry aspect of spectroscopy (UV, IR, MW)
 
 
+CM346: Computer Applications in Chemistry
+======
+This is the hands-on introduction to computer applications in chemistry. We introduce several concept such as geometry optimization, single-point energy calculation, spectral predictions, docking, and molecular dynamics simulation
+
 CM446: Introduction to Computational Quantum Chemistry
 ======
-
-CM645: Computational Quantum Chemistry 
-======
-
-CM730: Quantum Mechanics and Statistical Thermodynamics
-======
+This is the practical quantum chemistry course involving in-depth discussion of each methods (DFT, HF, coorrelation etc.)
 
 SC171, SC172, SC173, SC176: General Chemistry Laboratory 
 ======
+Practical courses for first year undergraduate students. Basic techniques and some physico-chemical behaviors are introduced. 
 
 SC174, SC175: General Organic Chemistry Laboratory 
 ======
+Practical courses for first year undergraduate students. The experiments are organic-chemistry oriented. 
 
 
 
