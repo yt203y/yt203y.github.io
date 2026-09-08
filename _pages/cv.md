@@ -25,10 +25,6 @@ Work experience
   * Department of Chemistry, Faculty of Science and Technology, Thammasat University
 
 
-
-    
-
-
 Skills
 ======
 * Computational Chemistry
@@ -37,6 +33,7 @@ Skills
 * Programming
   * Python
   * Fortran 77
+
 
 
 Publications
@@ -53,6 +50,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+  
 Administrative Service and leadership
 ======
 * 2021-2024: Thammasat University Center of Scientific Equipment for Advanced Research Director 
