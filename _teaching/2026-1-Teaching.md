@@ -2,7 +2,7 @@
 title: "Teaching experience "
 collection: teaching
 type: "Graduate & Undergraduate courses"
-permalink: /teaching/2023-1-Teaching
+permalink: /teaching/2026-1-Teaching
 venue: "Thammasat University, Chemistry"
 date: 2026-September
 location: "Pathumthani, Thailand"
@@ -11,17 +11,22 @@ location: "Pathumthani, Thailand"
 Past & Current Courses Taught by me 
 
 CM251: Mathematics for Chemists
-I've been teaching this class for about 10 years now. Starting from 3 credit course, now it's 2 credit course dealing with Differential equations & EigenProblems 
 ======
+I've been teaching this class for about 10 years now. Starting from 3 credit course, now it's 2 credit course dealing with Differential equations & EigenProblems 
 
 CM256: Chemical Informatics 
 ======
+This course is an introduction to Python for chemistry students.
+
 
 CM257: Scientific Communication
 ======
+This course introduces communication techniques in scientific and non-scientific audiences.
 
 CM351: Spectroscopy for Chemists (no longer taught)
 ======
+This course is no longer taught by me. One part is the physical chemistry aspect of spectroscopy (UV, IR, MW)
+
 
 CM446: Introduction to Computational Quantum Chemistry
 ======
