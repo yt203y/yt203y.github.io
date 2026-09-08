@@ -10,13 +10,13 @@ redirect_from:
 {% include base_path %}
 {% include toc %}
 
-Education
+##Education
 ======
 
 * B.Sc. in Chemistry, Mahidol University, 1995
 * Ph.D in Theoretical Chemistry, Cambridge University, 1999
 
-Work experience
+##Work experience
 ======
 * 2011-present: Assistant Professor, Associate Professor
   * Division of Chemistry, Faculty of Science and Technology, Thammasat University
@@ -26,7 +26,7 @@ Work experience
   * Department of Chemistry, Faculty of Science and Technology, Thammasat University
 
 
-Skills
+##Skills
 ======
 * Computational Chemistry
   * Quantum Chemistry
@@ -37,7 +37,7 @@ Skills
 
 
 
-Publications
+##Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -45,14 +45,14 @@ Publications
   
 
   
-Teaching
+##Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
   
-Administrative Service and leadership
+##Administrative Service and leadership
 ======
 * 2021-2024: Thammasat University Center of Scientific Equipment for Advanced Research Director 
   * Thammasat University
