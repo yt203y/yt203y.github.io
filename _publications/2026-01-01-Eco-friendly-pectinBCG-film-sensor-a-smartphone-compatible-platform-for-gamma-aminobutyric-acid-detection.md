@@ -1,7 +1,7 @@
 ---
 title: "Eco-friendly pectin/BCG film sensor: a smartphone-compatible platform for gamma-aminobutyric acid detection"
 collection: publications
-permalink: /publication/2026-01-01-Eco-friendly-pectinBCG-film-sensor-a-smartphone-compatible-platform-for-gamma-aminobutyric-acid-detection
+permalink: /publications/2026-01-01-Eco-friendly-pectinBCG-film-sensor-a-smartphone-compatible-platform-for-gamma-aminobutyric-acid-detection
 excerpt: 'Cited by: 1'
 date: 2026-01-01
 venue: 'Microchemical Journal'

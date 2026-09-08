@@ -1,7 +1,7 @@
 ---
 title: "Chemical and biological profiling of bioactive metabolites from the invertebrate-pathogenic fungus Gibellula scorpioides BCC 39989"
 collection: publications
-permalink: /publication/2026-01-01-Chemical-and-biological-profiling-of-bioactive-metabolites-from-the-invertebrate-pathogenic-fungus-Gibellula-scorpioides-BCC-39989
+permalink: /publications/2026-01-01-Chemical-and-biological-profiling-of-bioactive-metabolites-from-the-invertebrate-pathogenic-fungus-Gibellula-scorpioides-BCC-39989
 excerpt: 'Cited by: 0; All Open Access, Gold Open Access, Green Open Access'
 date: 2026-01-01
 venue: 'Scientific Reports'

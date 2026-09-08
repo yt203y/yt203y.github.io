@@ -1,7 +1,7 @@
 ---
 title: "An investigation of the change of the nuclear magnetic shielding in HF on forming the Ar···HF complex"
 collection: publications
-permalink: /publication/1999-01-01-An-investigation-of-the-change-of-the-nuclear-magnetic-shielding-in-HF-on-forming-the-ArHF-complex
+permalink: /publications/1999-01-01-An-investigation-of-the-change-of-the-nuclear-magnetic-shielding-in-HF-on-forming-the-ArHF-complex
 excerpt: 'Cited by: 8'
 date: 1999-01-01
 venue: 'Molecular Physics'

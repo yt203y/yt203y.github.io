@@ -1,7 +1,7 @@
 ---
 title: "Synthesis, characterization, and biological studies of novel Ni(II) and Zn(II) complexes with 5-chloro-2-(phenylazo)pyridine"
 collection: publications
-permalink: /publication/2017-01-01-Synthesis-characterization-and-biological-studies-of-novel-NiII-and-ZnII-complexes-with-5-chloro-2-phenylazopyridine
+permalink: /publications/2017-01-01-Synthesis-characterization-and-biological-studies-of-novel-NiII-and-ZnII-complexes-with-5-chloro-2-phenylazopyridine
 excerpt: 'Cited by: 5; All Open Access, Gold Open Access'
 date: 2017-01-01
 venue: 'ScienceAsia'

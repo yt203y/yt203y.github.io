@@ -1,7 +1,7 @@
 ---
 title: "Exploring photochemistry of 2-(phenylazo)pyridine dye by using TDDFT/DFT methods"
 collection: publications
-permalink: /publication/2012-01-01-Exploring-photochemistry-of-2-phenylazopyridine-dye-by-using-TDDFTDFT-methods
+permalink: /publications/2012-01-01-Exploring-photochemistry-of-2-phenylazopyridine-dye-by-using-TDDFTDFT-methods
 excerpt: 'Cited by: 4'
 date: 2012-01-01
 venue: 'Canadian Journal of Chemical Engineering'

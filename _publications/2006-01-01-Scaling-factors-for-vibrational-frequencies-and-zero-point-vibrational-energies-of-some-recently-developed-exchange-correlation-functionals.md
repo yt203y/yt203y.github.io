@@ -1,7 +1,7 @@
 ---
 title: "Scaling factors for vibrational frequencies and zero-point vibrational energies of some recently developed exchange-correlation functionals"
 collection: publications
-permalink: /publication/2006-01-01-Scaling-factors-for-vibrational-frequencies-and-zero-point-vibrational-energies-of-some-recently-developed-exchange-correlation-functionals
+permalink: /publications/2006-01-01-Scaling-factors-for-vibrational-frequencies-and-zero-point-vibrational-energies-of-some-recently-developed-exchange-correlation-functionals
 excerpt: 'Cited by: 121'
 date: 2006-01-01
 venue: 'Journal of Molecular Structure: THEOCHEM'

@@ -1,7 +1,7 @@
 ---
 title: "Oligonucleotide Hybridization Combined with Competitive Antibody Binding for the Truncation of a High-Affinity Aptamer"
 collection: publications
-permalink: /publication/2017-01-01-Oligonucleotide-Hybridization-Combined-with-Competitive-Antibody-Binding-for-the-Truncation-of-a-High-Affinity-Aptamer
+permalink: /publications/2017-01-01-Oligonucleotide-Hybridization-Combined-with-Competitive-Antibody-Binding-for-the-Truncation-of-a-High-Affinity-Aptamer
 excerpt: 'Cited by: 31'
 date: 2017-01-01
 venue: 'ACS Combinatorial Science'

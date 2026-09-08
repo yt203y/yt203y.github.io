@@ -1,7 +1,7 @@
 ---
 title: "Effect of proton motion on molecular properties in the BrH ··· NH3 complex"
 collection: publications
-permalink: /publication/1999-01-01-Effect-of-proton-motion-on-molecular-properties-in-the-BrH-NH3-complex
+permalink: /publications/1999-01-01-Effect-of-proton-motion-on-molecular-properties-in-the-BrH-NH3-complex
 excerpt: 'Cited by: 3'
 date: 1999-01-01
 venue: 'Molecular Physics'

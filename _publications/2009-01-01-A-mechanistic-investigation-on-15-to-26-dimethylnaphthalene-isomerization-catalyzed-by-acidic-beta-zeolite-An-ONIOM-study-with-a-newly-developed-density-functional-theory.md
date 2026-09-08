@@ -1,7 +1,7 @@
 ---
 title: "A mechanistic investigation on 1,5- to 2,6-dimethylnaphthalene isomerization catalyzed by acidic beta zeolite: An ONIOM study with a newly developed density functional theory"
 collection: publications
-permalink: /publication/2009-01-01-A-mechanistic-investigation-on-15-to-26-dimethylnaphthalene-isomerization-catalyzed-by-acidic-beta-zeolite-An-ONIOM-study-with-a-newly-developed-density-functional-theory
+permalink: /publications/2009-01-01-A-mechanistic-investigation-on-15-to-26-dimethylnaphthalene-isomerization-catalyzed-by-acidic-beta-zeolite-An-ONIOM-study-with-a-newly-developed-density-functional-theory
 excerpt: 'Cited by: 0'
 date: 2009-01-01
 venue: 'Technical Proceedings of the 2009 NSTI Nanotechnology Conference and Expo, NSTI-Nanotech 2009'

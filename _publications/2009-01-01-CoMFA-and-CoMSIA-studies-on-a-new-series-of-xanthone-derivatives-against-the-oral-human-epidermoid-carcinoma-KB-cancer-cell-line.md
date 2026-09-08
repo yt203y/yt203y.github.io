@@ -1,7 +1,7 @@
 ---
 title: "CoMFA and CoMSIA studies on a new series of xanthone derivatives against the oral human epidermoid carcinoma (KB) cancer cell line"
 collection: publications
-permalink: /publication/2009-01-01-CoMFA-and-CoMSIA-studies-on-a-new-series-of-xanthone-derivatives-against-the-oral-human-epidermoid-carcinoma-KB-cancer-cell-line
+permalink: /publications/2009-01-01-CoMFA-and-CoMSIA-studies-on-a-new-series-of-xanthone-derivatives-against-the-oral-human-epidermoid-carcinoma-KB-cancer-cell-line
 excerpt: 'Cited by: 9'
 date: 2009-01-01
 venue: 'Monatshefte fur Chemie'

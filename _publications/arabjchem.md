@@ -1,7 +1,7 @@
 ---
 title: "Electronic circular dichroism prediction on monomeric and dimeric γ-lactone derivatives: An important role of conformational averaging"
 collection: publications
-permalink: /publication/arabjchem
+permalink: /publications/arabjchem
 excerpt: 'We report the importance of conformational averaging from CREST to reproduce the experimental ECD spectra'
 date: 2026-07-21
 venue: 'Arabian Journal of Chemistry'

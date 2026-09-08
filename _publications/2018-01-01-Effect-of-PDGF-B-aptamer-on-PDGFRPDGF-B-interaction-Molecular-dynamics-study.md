@@ -1,7 +1,7 @@
 ---
 title: "Effect of PDGF-B aptamer on PDGFRβ/PDGF-B interaction: Molecular dynamics study"
 collection: publications
-permalink: /publication/2018-01-01-Effect-of-PDGF-B-aptamer-on-PDGFRPDGF-B-interaction-Molecular-dynamics-study
+permalink: /publications/2018-01-01-Effect-of-PDGF-B-aptamer-on-PDGFRPDGF-B-interaction-Molecular-dynamics-study
 excerpt: 'Cited by: 36'
 date: 2018-01-01
 venue: 'Journal of Molecular Graphics and Modelling'

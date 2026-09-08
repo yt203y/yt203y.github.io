@@ -1,7 +1,7 @@
 ---
 title: "Flow Analysis with Cerium (IV) Colorimetric Reagent for Determination of Procaine and Elucidation of the Color Species by Computational Investigation"
 collection: publications
-permalink: /publication/2023-01-01-Flow-Analysis-with-Cerium-IV-Colorimetric-Reagent-for-Determination-of-Procaine-and-Elucidation-of-the-Color-Species-by-Computational-Investigation
+permalink: /publications/2023-01-01-Flow-Analysis-with-Cerium-IV-Colorimetric-Reagent-for-Determination-of-Procaine-and-Elucidation-of-the-Color-Species-by-Computational-Investigation
 excerpt: 'Cited by: 3'
 date: 2023-01-01
 venue: 'Science and Technology Asia'

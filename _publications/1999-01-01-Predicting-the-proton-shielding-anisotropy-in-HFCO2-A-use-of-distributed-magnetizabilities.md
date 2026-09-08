@@ -1,7 +1,7 @@
 ---
 title: "Predicting the proton shielding anisotropy in HF···CO2: A use of distributed magnetizabilities"
 collection: publications
-permalink: /publication/1999-01-01-Predicting-the-proton-shielding-anisotropy-in-HFCO2-A-use-of-distributed-magnetizabilities
+permalink: /publications/1999-01-01-Predicting-the-proton-shielding-anisotropy-in-HFCO2-A-use-of-distributed-magnetizabilities
 excerpt: 'Cited by: 6'
 date: 1999-01-01
 venue: 'Molecular Physics'

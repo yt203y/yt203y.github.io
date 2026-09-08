@@ -1,7 +1,7 @@
 ---
 title: "SixC1-xO2 alloys: A possible route to stabilize carbon-based silica-like solids?"
 collection: publications
-permalink: /publication/2007-01-01-SixC1-xO2-alloys-A-possible-route-to-stabilize-carbon-based-silica-like-solids
+permalink: /publications/2007-01-01-SixC1-xO2-alloys-A-possible-route-to-stabilize-carbon-based-silica-like-solids
 excerpt: 'Cited by: 17; All Open Access, Green Open Access'
 date: 2007-01-01
 venue: 'Solid State Communications'

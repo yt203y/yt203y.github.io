@@ -1,7 +1,7 @@
 ---
 title: "Mechanism of Ni N-heterocyclic carbene catalyst for C-O bond hydrogenolysis of diphenyl ether: A density functional study"
 collection: publications
-permalink: /publication/2014-01-01-Mechanism-of-Ni-N-heterocyclic-carbene-catalyst-for-C-O-bond-hydrogenolysis-of-diphenyl-ether-A-density-functional-study
+permalink: /publications/2014-01-01-Mechanism-of-Ni-N-heterocyclic-carbene-catalyst-for-C-O-bond-hydrogenolysis-of-diphenyl-ether-A-density-functional-study
 excerpt: 'Cited by: 46'
 date: 2014-01-01
 venue: 'Dalton Transactions'

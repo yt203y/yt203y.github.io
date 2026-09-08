@@ -1,7 +1,7 @@
 ---
 title: "Density Functional Study of Nickel N-Heterocyclic Carbene Catalyzed C-O Bond Hydrogenolysis of Methyl Phenyl Ether: The Concerted β-H Transfer Mechanism"
 collection: publications
-permalink: /publication/2016-01-01-Density-Functional-Study-of-Nickel-N-Heterocyclic-Carbene-Catalyzed-C-O-Bond-Hydrogenolysis-of-Methyl-Phenyl-Ether-The-Concerted-H-Transfer-Mechanism
+permalink: /publications/2016-01-01-Density-Functional-Study-of-Nickel-N-Heterocyclic-Carbene-Catalyzed-C-O-Bond-Hydrogenolysis-of-Methyl-Phenyl-Ether-The-Concerted-H-Transfer-Mechanism
 excerpt: 'Cited by: 30'
 date: 2016-01-01
 venue: 'ACS Catalysis'

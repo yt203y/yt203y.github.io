@@ -1,7 +1,7 @@
 ---
 title: "Scale factors for carbonyl vibrational frequencies: A study of partial hessian approximation"
 collection: publications
-permalink: /publication/2018-01-01-Scale-factors-for-carbonyl-vibrational-frequencies-A-study-of-partial-hessian-approximation
+permalink: /publications/2018-01-01-Scale-factors-for-carbonyl-vibrational-frequencies-A-study-of-partial-hessian-approximation
 excerpt: 'Cited by: 4'
 date: 2018-01-01
 venue: 'Chiang Mai Journal of Science'

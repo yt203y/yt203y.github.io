@@ -1,7 +1,7 @@
 ---
 title: "Dimeric γ-lactone derivatives from the soil-derived fungus Lasiodiplodia theobromae NSTRU-PN1.4"
 collection: publications
-permalink: /publication/2022-01-01-Dimeric-lactone-derivatives-from-the-soil-derived-fungus-Lasiodiplodia-theobromae-NSTRU-PN14
+permalink: /publications/2022-01-01-Dimeric-lactone-derivatives-from-the-soil-derived-fungus-Lasiodiplodia-theobromae-NSTRU-PN14
 excerpt: 'Cited by: 2; All Open Access, Green Open Access'
 date: 2022-01-01
 venue: 'Natural Product Research'

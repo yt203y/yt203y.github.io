@@ -1,7 +1,7 @@
 ---
 title: "The second dielectric virial coefficient of the dipolar Gay-Berne fluid"
 collection: publications
-permalink: /publication/1999-01-01-The-second-dielectric-virial-coefficient-of-the-dipolar-Gay-Berne-fluid
+permalink: /publications/1999-01-01-The-second-dielectric-virial-coefficient-of-the-dipolar-Gay-Berne-fluid
 excerpt: 'Cited by: 1'
 date: 1999-01-01
 venue: 'Canadian Journal of Chemistry'

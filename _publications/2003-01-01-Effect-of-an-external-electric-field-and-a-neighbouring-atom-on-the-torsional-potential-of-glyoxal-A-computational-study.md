@@ -1,7 +1,7 @@
 ---
 title: "Effect of an external electric field and a neighbouring atom on the torsional potential of glyoxal: A computational study"
 collection: publications
-permalink: /publication/2003-01-01-Effect-of-an-external-electric-field-and-a-neighbouring-atom-on-the-torsional-potential-of-glyoxal-A-computational-study
+permalink: /publications/2003-01-01-Effect-of-an-external-electric-field-and-a-neighbouring-atom-on-the-torsional-potential-of-glyoxal-A-computational-study
 excerpt: 'Cited by: 7'
 date: 2003-01-01
 venue: 'Journal of Molecular Structure: THEOCHEM'

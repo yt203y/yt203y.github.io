@@ -1,7 +1,7 @@
 ---
 title: "Microwave-assisted one-pot functionalization of metal-organic framework MIL-53(Al)-NH2 with copper(ii) complexes and its application in olefin oxidation"
 collection: publications
-permalink: /publication/2017-01-01-Microwave-assisted-one-pot-functionalization-of-metal-organic-framework-MIL-53Al-NH2-with-copperii-complexes-and-its-application-in-olefin-oxidation
+permalink: /publications/2017-01-01-Microwave-assisted-one-pot-functionalization-of-metal-organic-framework-MIL-53Al-NH2-with-copperii-complexes-and-its-application-in-olefin-oxidation
 excerpt: 'Cited by: 39'
 date: 2017-01-01
 venue: 'Catalysis Science and Technology'

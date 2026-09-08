@@ -1,7 +1,7 @@
 ---
 title: "Solvatomorphism and anion effects in predominantly low spin iron(iii) Schiff base complexes"
 collection: publications
-permalink: /publication/2018-01-01-Solvatomorphism-and-anion-effects-in-predominantly-low-spin-ironiii-Schiff-base-complexes
+permalink: /publications/2018-01-01-Solvatomorphism-and-anion-effects-in-predominantly-low-spin-ironiii-Schiff-base-complexes
 excerpt: 'Cited by: 21'
 date: 2018-01-01
 venue: 'Dalton Transactions'

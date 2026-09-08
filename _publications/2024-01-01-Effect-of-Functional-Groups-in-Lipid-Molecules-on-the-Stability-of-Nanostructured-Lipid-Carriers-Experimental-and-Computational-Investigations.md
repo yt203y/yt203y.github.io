@@ -1,7 +1,7 @@
 ---
 title: "Effect of Functional Groups in Lipid Molecules on the Stability of Nanostructured Lipid Carriers: Experimental and Computational Investigations"
 collection: publications
-permalink: /publication/2024-01-01-Effect-of-Functional-Groups-in-Lipid-Molecules-on-the-Stability-of-Nanostructured-Lipid-Carriers-Experimental-and-Computational-Investigations
+permalink: /publications/2024-01-01-Effect-of-Functional-Groups-in-Lipid-Molecules-on-the-Stability-of-Nanostructured-Lipid-Carriers-Experimental-and-Computational-Investigations
 excerpt: 'Cited by: 18; All Open Access, Gold Open Access, Green Open Access'
 date: 2024-01-01
 venue: 'ACS Omega'

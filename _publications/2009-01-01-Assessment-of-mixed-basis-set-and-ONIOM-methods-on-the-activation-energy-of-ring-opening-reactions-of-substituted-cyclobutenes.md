@@ -1,7 +1,7 @@
 ---
 title: "Assessment of mixed basis set and ONIOM methods on the activation energy of ring opening reactions of substituted cyclobutenes"
 collection: publications
-permalink: /publication/2009-01-01-Assessment-of-mixed-basis-set-and-ONIOM-methods-on-the-activation-energy-of-ring-opening-reactions-of-substituted-cyclobutenes
+permalink: /publications/2009-01-01-Assessment-of-mixed-basis-set-and-ONIOM-methods-on-the-activation-energy-of-ring-opening-reactions-of-substituted-cyclobutenes
 excerpt: 'Cited by: 4'
 date: 2009-01-01
 venue: 'Journal of Molecular Structure: THEOCHEM'

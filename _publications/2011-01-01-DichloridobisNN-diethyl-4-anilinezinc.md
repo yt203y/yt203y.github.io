@@ -1,7 +1,7 @@
 ---
 title: "DichloridobisN,N-diethyl-4-[(pyridin-2-yl-κN)diazen-yl]anilinezinc"
 collection: publications
-permalink: /publication/2011-01-01-DichloridobisNN-diethyl-4-anilinezinc
+permalink: /publications/2011-01-01-DichloridobisNN-diethyl-4-anilinezinc
 excerpt: 'Cited by: 2; All Open Access, Gold Open Access, Green Open Access'
 date: 2011-01-01
 venue: 'Acta Crystallographica Section E: Structure Reports Online'

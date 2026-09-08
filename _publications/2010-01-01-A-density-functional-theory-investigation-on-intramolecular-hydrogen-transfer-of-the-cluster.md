@@ -1,7 +1,7 @@
 ---
 title: "A density functional theory investigation on intramolecular hydrogen transfer of the [Os3(CO)11P(OMe)3(Ru(η5- C5H5))2] cluster"
 collection: publications
-permalink: /publication/2010-01-01-A-density-functional-theory-investigation-on-intramolecular-hydrogen-transfer-of-the-cluster
+permalink: /publications/2010-01-01-A-density-functional-theory-investigation-on-intramolecular-hydrogen-transfer-of-the-cluster
 excerpt: 'Cited by: 1; All Open Access, Bronze Open Access'
 date: 2010-01-01
 venue: 'Bulletin of the Korean Chemical Society'

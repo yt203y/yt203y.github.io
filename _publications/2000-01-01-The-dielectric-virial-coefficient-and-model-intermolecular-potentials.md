@@ -1,7 +1,7 @@
 ---
 title: "The dielectric virial coefficient and model intermolecular potentials"
 collection: publications
-permalink: /publication/2000-01-01-The-dielectric-virial-coefficient-and-model-intermolecular-potentials
+permalink: /publications/2000-01-01-The-dielectric-virial-coefficient-and-model-intermolecular-potentials
 excerpt: 'Cited by: 10'
 date: 2000-01-01
 venue: 'Physical Chemistry Chemical Physics'

@@ -1,7 +1,7 @@
 ---
 title: "Theoretical study of hydrogen/methyl chalcogenides (H2X and CH3XH, X = S, Se) adsorption on pristine/doped graphene quantum dots"
 collection: publications
-permalink: /publication/2025-01-01-Theoretical-study-of-hydrogenmethyl-chalcogenides-H2X-and-CH3XH-X-S-Se-adsorption-on-pristinedoped-graphene-quantum-dots
+permalink: /publications/2025-01-01-Theoretical-study-of-hydrogenmethyl-chalcogenides-H2X-and-CH3XH-X-S-Se-adsorption-on-pristinedoped-graphene-quantum-dots
 excerpt: 'Cited by: 1'
 date: 2025-01-01
 venue: 'Chemical Papers'

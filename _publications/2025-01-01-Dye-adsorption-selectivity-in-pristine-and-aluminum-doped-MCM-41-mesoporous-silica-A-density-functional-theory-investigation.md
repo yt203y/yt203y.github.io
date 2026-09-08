@@ -1,7 +1,7 @@
 ---
 title: "Dye adsorption selectivity in pristine and aluminum-doped MCM-41 mesoporous silica: A density functional theory investigation"
 collection: publications
-permalink: /publication/2025-01-01-Dye-adsorption-selectivity-in-pristine-and-aluminum-doped-MCM-41-mesoporous-silica-A-density-functional-theory-investigation
+permalink: /publications/2025-01-01-Dye-adsorption-selectivity-in-pristine-and-aluminum-doped-MCM-41-mesoporous-silica-A-density-functional-theory-investigation
 excerpt: 'Cited by: 1'
 date: 2025-01-01
 venue: 'Polyhedron'

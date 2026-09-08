@@ -1,7 +1,7 @@
 ---
 title: "OctaDist: A tool for calculating distortion parameters in spin crossover and coordination complexes"
 collection: publications
-permalink: /publication/2021-01-01-OctaDist-A-tool-for-calculating-distortion-parameters-in-spin-crossover-and-coordination-complexes
+permalink: /publications/2021-01-01-OctaDist-A-tool-for-calculating-distortion-parameters-in-spin-crossover-and-coordination-complexes
 excerpt: 'Cited by: 287; All Open Access, Green Open Access'
 date: 2021-01-01
 venue: 'Dalton Transactions'

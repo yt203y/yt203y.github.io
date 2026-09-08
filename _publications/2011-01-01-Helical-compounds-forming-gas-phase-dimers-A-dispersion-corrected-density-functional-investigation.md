@@ -1,7 +1,7 @@
 ---
 title: "Helical compounds forming gas-phase dimers: A dispersion-corrected density functional investigation"
 collection: publications
-permalink: /publication/2011-01-01-Helical-compounds-forming-gas-phase-dimers-A-dispersion-corrected-density-functional-investigation
+permalink: /publications/2011-01-01-Helical-compounds-forming-gas-phase-dimers-A-dispersion-corrected-density-functional-investigation
 excerpt: 'Cited by: 0; All Open Access, Bronze Open Access'
 date: 2011-01-01
 venue: 'Bulletin of the Korean Chemical Society'

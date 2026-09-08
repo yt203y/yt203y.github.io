@@ -1,7 +1,7 @@
 ---
 title: "Proton shielding calculations in C6H6⋯H-CX3, X = H, F, Cl and Br, complexes"
 collection: publications
-permalink: /publication/2002-01-01-Proton-shielding-calculations-in-C6H6H-CX3-X-H-F-Cl-and-Br-complexes
+permalink: /publications/2002-01-01-Proton-shielding-calculations-in-C6H6H-CX3-X-H-F-Cl-and-Br-complexes
 excerpt: 'Cited by: 4'
 date: 2002-01-01
 venue: 'Physical Chemistry Chemical Physics'

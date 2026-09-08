@@ -1,7 +1,7 @@
 ---
 title: "Magnetizabilities of ring-structured molecules, [8]-cyclacene, [8]-BN-cyclacene and [8]-collarene, and their effect on 3He nuclear shielding tensor"
 collection: publications
-permalink: /publication/2003-01-01-Magnetizabilities-of-ring-structured-molecules-collarene-and-their-effect-on-3He-nuclear-shielding-tensor
+permalink: /publications/2003-01-01-Magnetizabilities-of-ring-structured-molecules-collarene-and-their-effect-on-3He-nuclear-shielding-tensor
 excerpt: 'Cited by: 7'
 date: 2003-01-01
 venue: 'Bulletin of the Chemical Society of Japan'

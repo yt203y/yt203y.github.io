@@ -1,7 +1,7 @@
 ---
 title: "A DFT investigation of methanolysis and hydrolysis of triacetin"
 collection: publications
-permalink: /publication/2010-01-01-A-DFT-investigation-of-methanolysis-and-hydrolysis-of-triacetin
+permalink: /publications/2010-01-01-A-DFT-investigation-of-methanolysis-and-hydrolysis-of-triacetin
 excerpt: 'Cited by: 33; All Open Access, Green Open Access'
 date: 2010-01-01
 venue: 'Journal of Molecular Structure: THEOCHEM'

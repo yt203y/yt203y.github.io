@@ -1,7 +1,7 @@
 ---
 title: "Molecular electric properties: An assessment of recently developed functionals"
 collection: publications
-permalink: /publication/1999-01-01-Molecular-electric-properties-An-assessment-of-recently-developed-functionals
+permalink: /publications/1999-01-01-Molecular-electric-properties-An-assessment-of-recently-developed-functionals
 excerpt: 'Cited by: 47'
 date: 1999-01-01
 venue: 'Chemical Physics Letters'

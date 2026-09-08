@@ -1,7 +1,7 @@
 ---
 title: "In silico investigation of mitragynine and 7-hydroxymitragynine metabolism"
 collection: publications
-permalink: /publication/2019-01-01-In-silico-investigation-of-mitragynine-and-7-hydroxymitragynine-metabolism
+permalink: /publications/2019-01-01-In-silico-investigation-of-mitragynine-and-7-hydroxymitragynine-metabolism
 excerpt: 'Cited by: 6; All Open Access, Gold Open Access, Green Open Access'
 date: 2019-01-01
 venue: 'BMC Research Notes'

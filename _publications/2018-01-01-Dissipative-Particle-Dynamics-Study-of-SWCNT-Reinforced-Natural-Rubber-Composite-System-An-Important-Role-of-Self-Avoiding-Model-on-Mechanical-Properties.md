@@ -1,7 +1,7 @@
 ---
 title: "Dissipative Particle Dynamics Study of SWCNT Reinforced Natural Rubber Composite System: An Important Role of Self-Avoiding Model on Mechanical Properties"
 collection: publications
-permalink: /publication/2018-01-01-Dissipative-Particle-Dynamics-Study-of-SWCNT-Reinforced-Natural-Rubber-Composite-System-An-Important-Role-of-Self-Avoiding-Model-on-Mechanical-Properties
+permalink: /publications/2018-01-01-Dissipative-Particle-Dynamics-Study-of-SWCNT-Reinforced-Natural-Rubber-Composite-System-An-Important-Role-of-Self-Avoiding-Model-on-Mechanical-Properties
 excerpt: 'Cited by: 13'
 date: 2018-01-01
 venue: 'Macromolecular Theory and Simulations'

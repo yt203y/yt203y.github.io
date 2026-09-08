@@ -1,7 +1,7 @@
 ---
 title: "Iridium(III) complexes based on cyanomethane and cyanamide ligands with luminescence quenching properties for Fe(III) sensing and biological activities"
 collection: publications
-permalink: /publication/2023-01-01-IridiumIII-complexes-based-on-cyanomethane-and-cyanamide-ligands-with-luminescence-quenching-properties-for-FeIII-sensing-and-biological-activities
+permalink: /publications/2023-01-01-IridiumIII-complexes-based-on-cyanomethane-and-cyanamide-ligands-with-luminescence-quenching-properties-for-FeIII-sensing-and-biological-activities
 excerpt: 'Cited by: 5'
 date: 2023-01-01
 venue: 'Polyhedron'

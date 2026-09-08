@@ -1,7 +1,7 @@
 ---
 title: "A performance study of density functional theory with empirical dispersion corrections and spin-component scaled second-order Møller-Plesset perturbation theory on adsorbate-zeolite interactions"
 collection: publications
-permalink: /publication/2010-01-01-A-performance-study-of-density-functional-theory-with-empirical-dispersion-corrections-and-spin-component-scaled-second-order-Mller-Plesset-perturbation-theory-on-adsorbate-zeolite-interactions
+permalink: /publications/2010-01-01-A-performance-study-of-density-functional-theory-with-empirical-dispersion-corrections-and-spin-component-scaled-second-order-Mller-Plesset-perturbation-theory-on-adsorbate-zeolite-interactions
 excerpt: 'Cited by: 12'
 date: 2010-01-01
 venue: 'Journal of Molecular Structure: THEOCHEM'

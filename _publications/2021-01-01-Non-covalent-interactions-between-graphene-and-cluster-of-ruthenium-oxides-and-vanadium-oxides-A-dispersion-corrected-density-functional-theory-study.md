@@ -1,7 +1,7 @@
 ---
 title: "Non-covalent interactions between graphene and cluster of ruthenium oxides and vanadium oxides: A dispersion-corrected density functional theory study"
 collection: publications
-permalink: /publication/2021-01-01-Non-covalent-interactions-between-graphene-and-cluster-of-ruthenium-oxides-and-vanadium-oxides-A-dispersion-corrected-density-functional-theory-study
+permalink: /publications/2021-01-01-Non-covalent-interactions-between-graphene-and-cluster-of-ruthenium-oxides-and-vanadium-oxides-A-dispersion-corrected-density-functional-theory-study
 excerpt: 'Cited by: 0'
 date: 2021-01-01
 venue: 'Chiang Mai Journal of Science'

@@ -1,7 +1,7 @@
 ---
 title: "Computational study of transmission function in p-phenylene sulfide and benzothiophene oligomers"
 collection: publications
-permalink: /publication/2002-01-01-Computational-study-of-transmission-function-in-p-phenylene-sulfide-and-benzothiophene-oligomers
+permalink: /publications/2002-01-01-Computational-study-of-transmission-function-in-p-phenylene-sulfide-and-benzothiophene-oligomers
 excerpt: 'Cited by: 0'
 date: 2002-01-01
 venue: 'Chemistry Letters'

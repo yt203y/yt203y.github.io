@@ -1,7 +1,7 @@
 ---
 title: "A new screening method for flunitrazepam in vodka and tequila by fluorescence spectroscopy"
 collection: publications
-permalink: /publication/2013-01-01-A-new-screening-method-for-flunitrazepam-in-vodka-and-tequila-by-fluorescence-spectroscopy
+permalink: /publications/2013-01-01-A-new-screening-method-for-flunitrazepam-in-vodka-and-tequila-by-fluorescence-spectroscopy
 excerpt: 'Cited by: 20'
 date: 2013-01-01
 venue: 'Luminescence'

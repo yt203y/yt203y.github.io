@@ -1,7 +1,7 @@
 ---
 title: "Influence of stereoisomer of dispiro-1,2,4,5-tetraoxanes on their binding mode with heme and on antimalarial activity: Molecular docking studies"
 collection: publications
-permalink: /publication/2004-01-01-Influence-of-stereoisomer-of-dispiro-1245-tetraoxanes-on-their-binding-mode-with-heme-and-on-antimalarial-activity-Molecular-docking-studies
+permalink: /publications/2004-01-01-Influence-of-stereoisomer-of-dispiro-1245-tetraoxanes-on-their-binding-mode-with-heme-and-on-antimalarial-activity-Molecular-docking-studies
 excerpt: 'Cited by: 18'
 date: 2004-01-01
 venue: 'Bioorganic and Medicinal Chemistry'

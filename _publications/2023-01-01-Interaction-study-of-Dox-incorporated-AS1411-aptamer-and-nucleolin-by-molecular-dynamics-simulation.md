@@ -1,7 +1,7 @@
 ---
 title: "Interaction study of Dox-incorporated AS1411 aptamer and nucleolin by molecular dynamics simulation"
 collection: publications
-permalink: /publication/2023-01-01-Interaction-study-of-Dox-incorporated-AS1411-aptamer-and-nucleolin-by-molecular-dynamics-simulation
+permalink: /publications/2023-01-01-Interaction-study-of-Dox-incorporated-AS1411-aptamer-and-nucleolin-by-molecular-dynamics-simulation
 excerpt: 'Cited by: 3'
 date: 2023-01-01
 venue: 'Molecular Simulation'

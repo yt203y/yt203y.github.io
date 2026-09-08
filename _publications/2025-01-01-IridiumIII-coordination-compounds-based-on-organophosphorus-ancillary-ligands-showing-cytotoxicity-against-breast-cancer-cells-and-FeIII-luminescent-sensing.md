@@ -1,7 +1,7 @@
 ---
 title: "Iridium(III) coordination compounds based on organophosphorus ancillary ligands showing cytotoxicity against breast cancer cells and Fe(III) luminescent sensing"
 collection: publications
-permalink: /publication/2025-01-01-IridiumIII-coordination-compounds-based-on-organophosphorus-ancillary-ligands-showing-cytotoxicity-against-breast-cancer-cells-and-FeIII-luminescent-sensing
+permalink: /publications/2025-01-01-IridiumIII-coordination-compounds-based-on-organophosphorus-ancillary-ligands-showing-cytotoxicity-against-breast-cancer-cells-and-FeIII-luminescent-sensing
 excerpt: 'Cited by: 2'
 date: 2025-01-01
 venue: 'Spectrochimica Acta - Part A: Molecular and Biomolecular Spectroscopy'

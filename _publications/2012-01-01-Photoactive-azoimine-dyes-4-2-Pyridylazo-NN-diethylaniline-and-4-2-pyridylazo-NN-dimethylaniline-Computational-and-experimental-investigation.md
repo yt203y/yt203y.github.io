@@ -1,7 +1,7 @@
 ---
 title: "Photoactive azoimine dyes: 4-(2-Pyridylazo)-N,N-diethylaniline and 4-(2-pyridylazo)-N,N-dimethylaniline: Computational and experimental investigation"
 collection: publications
-permalink: /publication/2012-01-01-Photoactive-azoimine-dyes-4-2-Pyridylazo-NN-diethylaniline-and-4-2-pyridylazo-NN-dimethylaniline-Computational-and-experimental-investigation
+permalink: /publications/2012-01-01-Photoactive-azoimine-dyes-4-2-Pyridylazo-NN-diethylaniline-and-4-2-pyridylazo-NN-dimethylaniline-Computational-and-experimental-investigation
 excerpt: 'Cited by: 20'
 date: 2012-01-01
 venue: 'Spectrochimica Acta - Part A: Molecular and Biomolecular Spectroscopy'

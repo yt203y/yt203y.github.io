@@ -1,7 +1,7 @@
 ---
 title: "Redox coupled-spin crossover in cobalt β-diketonate complexes: Structural, electrochemical and computational studies"
 collection: publications
-permalink: /publication/2012-01-01-Redox-coupled-spin-crossover-in-cobalt-diketonate-complexes-Structural-electrochemical-and-computational-studies
+permalink: /publications/2012-01-01-Redox-coupled-spin-crossover-in-cobalt-diketonate-complexes-Structural-electrochemical-and-computational-studies
 excerpt: 'Cited by: 6'
 date: 2012-01-01
 venue: 'Polyhedron'

@@ -1,7 +1,7 @@
 ---
 title: "Molecular dynamics study of DNA duplex containing carbazole-derived universal base"
 collection: publications
-permalink: /publication/2012-01-01-Molecular-dynamics-study-of-DNA-duplex-containing-carbazole-derived-universal-base
+permalink: /publications/2012-01-01-Molecular-dynamics-study-of-DNA-duplex-containing-carbazole-derived-universal-base
 excerpt: 'Cited by: 0; All Open Access, Hybrid Gold Open Access'
 date: 2012-01-01
 venue: 'Advanced Materials Research'

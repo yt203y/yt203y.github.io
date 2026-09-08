@@ -1,7 +1,7 @@
 ---
 title: "Decomposition of nitrous oxide on carbon nanotubes"
 collection: publications
-permalink: /publication/2007-01-01-Decomposition-of-nitrous-oxide-on-carbon-nanotubes
+permalink: /publications/2007-01-01-Decomposition-of-nitrous-oxide-on-carbon-nanotubes
 excerpt: 'Cited by: 17'
 date: 2007-01-01
 venue: 'Journal of Molecular Graphics and Modelling'

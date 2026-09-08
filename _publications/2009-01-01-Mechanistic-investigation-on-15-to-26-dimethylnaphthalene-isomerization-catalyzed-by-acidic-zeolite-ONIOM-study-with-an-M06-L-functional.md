@@ -1,7 +1,7 @@
 ---
 title: "Mechanistic investigation on 1,5- to 2,6-dimethylnaphthalene isomerization catalyzed by acidic β zeolite: ONIOM study with an M06-L functional"
 collection: publications
-permalink: /publication/2009-01-01-Mechanistic-investigation-on-15-to-26-dimethylnaphthalene-isomerization-catalyzed-by-acidic-zeolite-ONIOM-study-with-an-M06-L-functional
+permalink: /publications/2009-01-01-Mechanistic-investigation-on-15-to-26-dimethylnaphthalene-isomerization-catalyzed-by-acidic-zeolite-ONIOM-study-with-an-M06-L-functional
 excerpt: 'Cited by: 59'
 date: 2009-01-01
 venue: 'Journal of Physical Chemistry C'

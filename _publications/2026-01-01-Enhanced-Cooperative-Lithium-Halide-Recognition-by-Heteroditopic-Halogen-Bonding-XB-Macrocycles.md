@@ -1,7 +1,7 @@
 ---
 title: "Enhanced Cooperative Lithium Halide Recognition by Heteroditopic Halogen Bonding (XB) Macrocycles"
 collection: publications
-permalink: /publication/2026-01-01-Enhanced-Cooperative-Lithium-Halide-Recognition-by-Heteroditopic-Halogen-Bonding-XB-Macrocycles
+permalink: /publications/2026-01-01-Enhanced-Cooperative-Lithium-Halide-Recognition-by-Heteroditopic-Halogen-Bonding-XB-Macrocycles
 excerpt: 'Cited by: 3; All Open Access, Green Open Access, Hybrid Gold Open Access'
 date: 2026-01-01
 venue: 'Inorganic Chemistry'
