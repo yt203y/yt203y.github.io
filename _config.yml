@@ -99,6 +99,8 @@ author:
 publication_category:
   books:
     title: 'Books'
+  publications:
+    title: 'Journal Articles'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
