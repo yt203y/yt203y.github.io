@@ -21,13 +21,13 @@ Currently, I am part of the Thammasat Research Unit in Innovation of Molecular H
 * Assoc.Prof.Dr.Pitchayanoot Rotkrua 
 * Asst.Prof.Dr. Jiraporn Arunpanichlert
 
-Also, I collaborate with friends from other Universities too. To name but a few, here they are
-* Suranaree University of Technology: Assoc.Prof.Dr. David Harding, Assoc.Prof.Dr.Phimphaka Harding
-* Prince of Songkla University: Assoc.Prof.Dr.Nararak Leesakul
-* Mahidol University: Assoc.Prof.Dr. Thanthapatra Bunchuay, Assoc.Prof.Dr.Jonggol Tantirungrotechai
+I also get to collaborate with brilliant friends across other Universities. To name just a few:
+* Suranaree University of Technology: Assoc.Prof.Dr. David Harding, Assoc.Prof.Dr. Phimphaka Harding
+* Prince of Songkla University: Assoc.Prof.Dr. Nararak Leesakul
+* Mahidol University: Assoc.Prof.Dr. Thanthapatra Bunchuay, Assoc.Prof.Dr. Jonggol Tantirungrotechai
 
-I lead a small group of students through some interesting research. Through a bit of carrot and stick, I train them to be (fingers crossed!) good researchers and not-so-crazy people.
+In my own lab, I lead a small group of students through interesting research projects. Through a bit of carrot and stick, I train them to be (fingers crossed!) good researchers and not-so-crazy people.
 
-Apart from doing science, I enjoy reading, listening to music, and cooking.
+Outside the lab, you'll usually find me reading, listening to music, and experimenting in the kitchen.
 
 
