@@ -8,6 +8,7 @@ modified: 2026-09-06
 {% include toc %}
 
 <img src='/images/vantage-point-may2026.jpeg'>
+<img src='/images/eating-2024.jpeg'>
 
 ## Group Members
 1. Mr. Tri Cao Vu (PhD student)
