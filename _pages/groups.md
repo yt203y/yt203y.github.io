@@ -13,6 +13,7 @@ modified: 2026-09-06
 1. Ms. Thitipatra Buabanprom (MSc student)
 1. Ms. Chinnipha Wannaphun (BSc student)
 
+<img src='/images/vantage-point-may2026.jpeg'>
 
 ## Alumni (Thammasat) 
 1. Mr. Natthakit Singhanatkaisi (MSc)
