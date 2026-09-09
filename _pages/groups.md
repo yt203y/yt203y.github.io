@@ -17,7 +17,7 @@ modified: 2026-09-06
 
 ## Alumni (Thammasat) 
 1. Mr. Natthakit Singhanatkaisi (MSc)
-1. Mr. Rangsiman Ketkaew (MSc)
+1. Mr. Rangsiman Ketkaew (MSc now at [ETHZ](https://rangsimanketkaew.github.io)) 
 1. Ms. Kerida Ruamdee (MSc)
 1. Ms. Chakhon Salee 
 1. Ms. Wimonsiri Tanomsridachchai (MSc)
