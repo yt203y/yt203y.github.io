@@ -21,6 +21,7 @@ modified: 2026-09-06
 1. Mr. Natthakit Singhanatkaisi (MSc)
 1. Mr. Rangsiman Ketkaew (MSc now at [ETHZ](https://rangsimanketkaew.github.io)) 
 1. Ms. Kerida Ruamdee (MSc)
+1. Ms. Yenruedee Thiangjit (MSc)
 1. Ms. Chakhon Salee 
 1. Ms. Wimonsiri Tanomsridachchai (MSc)
 1. Mr. Phoom Chumponanomakhun (MSc)
